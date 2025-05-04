@@ -33,7 +33,7 @@ HR-AI Match is an AI-powered system designed to automatically recommend the most
 
 ## Dataset
 
-- **Source**: Kaggle Resume Dataset  
+- **Source**: ![Kaggle Resume Dataset] (https://www.kaggle.com/datasets/snehaanbhawal/resume-dataset)  
 - **Structure**:
   - `Resume_str`: Raw text of CVs
   - `Category`: Job category (e.g., "Data Science", "HR")
