@@ -90,31 +90,15 @@ HR-AI Match is an AI-powered system designed to automatically recommend the most
 
 ---
 
-## Repository Structure
-
-HR-AI-Match/
-├── data/
-│ ├── Resume.csv # Raw dataset
-│ └── processed/ # Preprocessed .pkl files
-├── src/
-│ ├── preprocess.py # Data cleaning script
-│ ├── recommend.py # Recommendation engine
-│ └── app.py # Streamlit web app
-├── assets/
-│ └── demo.gif # Demo recording of the app
-└── README.md # Project documentation
-
-
----
-
 ## How to Run
 
-```bash
 # 1. Install required dependencies
 pip install -r requirements.txt
 
 # 2. Launch the Streamlit application
 streamlit run src/app.py
+
+---
 
 ## Impact
 
