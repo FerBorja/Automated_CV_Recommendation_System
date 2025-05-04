@@ -92,10 +92,10 @@ HR-AI Match is an AI-powered system designed to automatically recommend the most
 
 ## How to Run
 
-# 1. Install required dependencies
+### 1. Install required dependencies
 pip install -r requirements.txt
 
-# 2. Launch the Streamlit application
+### 2. Launch the Streamlit application
 streamlit run src/app.py
 
 ---
@@ -108,6 +108,6 @@ streamlit run src/app.py
 
 ---
 
-## 📷 Demo
+## Demo
 
 ![App Demo](media/sample.png)
